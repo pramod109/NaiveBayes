@@ -1,0 +1,1 @@
+I have divided the articles folder into training and testing data manually. Plsease set the paths correctly. Plsease us the articles folder that I have uploaded in the zip file for execution.
